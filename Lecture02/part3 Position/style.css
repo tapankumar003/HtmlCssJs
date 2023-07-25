@@ -1,0 +1,15 @@
+h1{
+    position:absolute;
+    left:50px;
+    color:red;
+    background-color:yellow;
+  }
+  div{
+    background-color:skyblue;
+  }
+  img{
+    width:100px;
+    position:relative;
+    left:80px;
+    top:100px;
+  }

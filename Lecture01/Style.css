@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: aliceblue;
+   font-family: Arial;
+   font-size: 20px; 
+}
+h1{
+    font-size: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.first{
+    color: crimson;
+    margin-left: 30px;
+    text-align: center;
+}
+#img_id{
+    height: 200px;
+    width: 200px;
+    margin-left: 44%;
+}
+.pqr{
+    text-align: center;
+}
+#formId{
+    margin-top: 20px;
+    text-align: center;
+}

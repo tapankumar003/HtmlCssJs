@@ -1,0 +1,23 @@
+div{
+    background-color:darkblue;
+    color: white;
+    padding-bottom: 100px;
+}
+p{
+    background-color: teal;
+    color: black;
+    float: right;
+    clear: left;
+    margin-right: 50%;
+    padding: 20px;
+    font-size: 25px;
+    font-family: cursive;
+}
+h1{
+    margin-left: 10%;
+}
+img{
+    width: 80px;
+    float: right;
+    padding: 10px;
+}

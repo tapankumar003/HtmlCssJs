@@ -1,0 +1,26 @@
+#parent{
+    display: flex;
+    background-color: aqua;
+    font-size: 50px;
+    align-items: end;
+    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    padding: 10%;
+    margin: 50px;
+    border-style: solid;
+    border-color: crimson;
+    border-radius: 5px;
+    border-width: 3px;
+}
+#ch1{
+    background-color:blue;
+}
+#ch2{
+    background-color:brown;
+    height: 100px;
+}
+#ch3{
+    background-color:chartreuse;
+    order: -1;
+}
